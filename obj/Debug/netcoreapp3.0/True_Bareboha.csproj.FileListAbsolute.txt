@@ -1,0 +1,11 @@
+C:\Users\Kat_Otsorp\source\repos\True_Bareboha\bin\Debug\netcoreapp3.0\True_Bareboha.exe
+C:\Users\Kat_Otsorp\source\repos\True_Bareboha\bin\Debug\netcoreapp3.0\True_Bareboha.deps.json
+C:\Users\Kat_Otsorp\source\repos\True_Bareboha\bin\Debug\netcoreapp3.0\True_Bareboha.runtimeconfig.json
+C:\Users\Kat_Otsorp\source\repos\True_Bareboha\bin\Debug\netcoreapp3.0\True_Bareboha.runtimeconfig.dev.json
+C:\Users\Kat_Otsorp\source\repos\True_Bareboha\bin\Debug\netcoreapp3.0\True_Bareboha.dll
+C:\Users\Kat_Otsorp\source\repos\True_Bareboha\bin\Debug\netcoreapp3.0\True_Bareboha.pdb
+C:\Users\Kat_Otsorp\source\repos\True_Bareboha\obj\Debug\netcoreapp3.0\True_Bareboha.csprojAssemblyReference.cache
+C:\Users\Kat_Otsorp\source\repos\True_Bareboha\obj\Debug\netcoreapp3.0\True_Bareboha.AssemblyInfoInputs.cache
+C:\Users\Kat_Otsorp\source\repos\True_Bareboha\obj\Debug\netcoreapp3.0\True_Bareboha.AssemblyInfo.cs
+C:\Users\Kat_Otsorp\source\repos\True_Bareboha\obj\Debug\netcoreapp3.0\True_Bareboha.dll
+C:\Users\Kat_Otsorp\source\repos\True_Bareboha\obj\Debug\netcoreapp3.0\True_Bareboha.pdb

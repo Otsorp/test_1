@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "True_Bareboha/1.0.0": {
+        "runtime": {
+          "True_Bareboha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "True_Bareboha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
